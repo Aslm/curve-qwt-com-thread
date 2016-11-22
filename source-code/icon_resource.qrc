@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res_picture/logo42-22.png</file>
+        <file>res_picture/logo129-66.png</file>
+        <file>res_picture/psb.jpg</file>
+    </qresource>
+</RCC>
