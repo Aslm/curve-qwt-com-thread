@@ -1,3 +1,18 @@
+/**
+*********************************************************************************************************
+*
+*	@ProjectName : curve-qwt-com-thread
+*	@Description :
+*	@Version     : V1.0
+*	@Description :
+*
+*	....................Update....................
+*	@Version  @Date      @Design   @Description
+*    V1.0    2016.11.23  Aslm       demo
+*
+* @ME:sillyman2008@outlook.com
+*********************************************************************************************************/
+
 #include "g_datapro.h"
 #include <QDebug>
 #include "g_define.h"

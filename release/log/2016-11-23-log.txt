@@ -1,0 +1,4 @@
+01-24-44: Debug: *************************** 
+01-24-44: Debug: main thread: 0x2f10 
+01-24-44: Debug: "COM9" "115200" "8" "1" "1" 
+01-24-46: Debug: [m MainWindow  quit! [m 

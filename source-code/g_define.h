@@ -1,6 +1,21 @@
 #ifndef G_DEFINE_H
 #define G_DEFINE_H
 
+/**
+*********************************************************************************************************
+*
+*	@ProjectName : curve-qwt-com-thread
+*	@Description :
+*	@Version     : V1.0
+*	@Description :
+*
+*	....................Update....................
+*	@Version  @Date      @Design   @Description
+*    V1.0    2016.11.23  Aslm       demo
+*
+* @ME:sillyman2008@outlook.com
+*********************************************************************************************************/
+
 #define P_NONE         "\033[m"
 #define P_RED          "\033[0;32;31m"
 #define P_LIGHT_RED    "\033[1;31m"
