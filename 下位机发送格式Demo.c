@@ -48,8 +48,8 @@ void My_AppTask_One(void *p_arg)
 		
 		(void)p_arg;
 
-    OSTimeDlyHMSM(0,0,0,50,OS_OPT_TIME_HMSM_NON_STRICT,&err);
-    if(err != OS_ERR_NONE) DEBUG_Printf_Err_Loction(err);
+		OSTimeDlyHMSM(0,0,0,50,OS_OPT_TIME_HMSM_NON_STRICT,&err);
+		if(err != OS_ERR_NONE) DEBUG_Printf_Err_Loction(err);
  
 #define M_PI		3.14159265358979323846
 		
@@ -69,7 +69,7 @@ void My_AppTask_One(void *p_arg)
 		clc_flag += data[axis++] = (uint8_t)((temp_2 & 0xFF00) >> 8);
 		clc_flag += data[axis++] = (uint8_t)((temp_2 & 0x00FF) >> 0);
 		
-	    uint16_t temp_3 =  int16_Turn_uint16((int16_t)(tan(x)*1000));
+	        uint16_t temp_3 =  int16_Turn_uint16((int16_t)(tan(x)*1000));
 		clc_flag += data[axis++] = (uint8_t)((temp_3 & 0xFF00) >> 8);
 		clc_flag += data[axis++] = (uint8_t)((temp_3 & 0x00FF) >> 0);
 		
