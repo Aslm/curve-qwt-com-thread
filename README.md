@@ -1,5 +1,7 @@
 # curve-qwt-com-thread
 
+![curve-GUI.jpg](https://github.com/Aslm/curve-qwt-com-thread/blob/master/curve-GUI.jpg)
+![serial-GUI.jpg](https://github.com/Aslm/curve-qwt-com-thread/blob/master/serial-GUI.jpg)
 ![about-GUI.png](https://github.com/Aslm/curve-qwt-com-thread/blob/master/about-GUI.png)
 
 /**
