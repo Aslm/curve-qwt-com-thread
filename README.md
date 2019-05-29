@@ -1,5 +1,7 @@
 # curve-qwt-com-thread
 
+![about-GUI.png](https://github.com/Aslm/curve-qwt-com-thread/blob/master/about-GUI.png)
+
 /**
 *********************************************************************************************************
 *
